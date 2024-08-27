@@ -1,0 +1,120 @@
+2024-08-25 03:55:10 - Error: [8192] Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\evndata\register.php on line 43
+2024-08-25 03:55:10 - Error: [8192] Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\evndata\register.php on line 44
+2024-08-25 03:55:10 - Error: [8192] Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\evndata\register.php on line 46
+2024-08-25 03:55:10 - Error: [8192] Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\evndata\register.php on line 47
+2024-08-25 03:55:13 - Error: [2] Undefined array key "first_name" in C:\xampp\htdocs\evndata\login.php on line 8
+2024-08-25 03:55:13 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-25 03:55:13 - Error: [2] Undefined array key "last_name" in C:\xampp\htdocs\evndata\login.php on line 9
+2024-08-25 03:55:13 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-25 03:55:13 - Error: [2] Undefined array key "phone_number" in C:\xampp\htdocs\evndata\login.php on line 11
+2024-08-25 03:55:13 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-25 03:55:13 - Error: [2] Undefined array key "business_name" in C:\xampp\htdocs\evndata\login.php on line 12
+2024-08-25 03:55:13 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-25 04:14:05 - Error: [2] Undefined array key "first_name" in C:\xampp\htdocs\evndata\login.php on line 8
+2024-08-25 04:14:05 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-25 04:14:05 - Error: [2] Undefined array key "last_name" in C:\xampp\htdocs\evndata\login.php on line 9
+2024-08-25 04:14:05 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-25 04:14:05 - Error: [2] Undefined array key "phone_number" in C:\xampp\htdocs\evndata\login.php on line 11
+2024-08-25 04:14:05 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-25 04:14:05 - Error: [2] Undefined array key "business_name" in C:\xampp\htdocs\evndata\login.php on line 12
+2024-08-25 04:14:05 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-25 04:23:36 - Error: [2] Undefined array key "user_email" in C:\xampp\htdocs\evndata\topup.php on line 17
+2024-08-25 04:23:54 - Error: [2] Undefined array key "user_email" in C:\xampp\htdocs\evndata\topup.php on line 17
+2024-08-25 14:37:23 - Error: [2] Undefined array key "first_name" in C:\xampp\htdocs\evndata\login.php on line 8
+2024-08-25 14:37:23 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-25 14:37:23 - Error: [2] Undefined array key "last_name" in C:\xampp\htdocs\evndata\login.php on line 9
+2024-08-25 14:37:23 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-25 14:37:23 - Error: [2] Undefined array key "phone_number" in C:\xampp\htdocs\evndata\login.php on line 11
+2024-08-25 14:37:23 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-25 14:37:23 - Error: [2] Undefined array key "business_name" in C:\xampp\htdocs\evndata\login.php on line 12
+2024-08-25 14:37:23 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-26 04:48:21 - Error: [2] Undefined array key "first_name" in C:\xampp\htdocs\evndata\login.php on line 8
+2024-08-26 04:48:21 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-26 04:48:21 - Error: [2] Undefined array key "last_name" in C:\xampp\htdocs\evndata\login.php on line 9
+2024-08-26 04:48:21 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-26 04:48:21 - Error: [2] Undefined array key "phone_number" in C:\xampp\htdocs\evndata\login.php on line 11
+2024-08-26 04:48:21 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-26 04:48:21 - Error: [2] Undefined array key "business_name" in C:\xampp\htdocs\evndata\login.php on line 12
+2024-08-26 04:48:21 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\validation.php on line 4
+2024-08-26 04:48:30 - Error: [2] Undefined array key "user_email" in C:\xampp\htdocs\evndata\topup.php on line 17
+2024-08-26 06:15:32 - Error: [2] require_once(validation.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\evndata\profile.php on line 3
+2024-08-26 06:15:35 - Error: [2] require_once(validation.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\evndata\profile.php on line 3
+2024-08-26 06:15:43 - Error: [2] require_once(validation.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\evndata\login.php on line 5
+2024-08-26 06:15:52 - Error: [2] require_once(validation.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\evndata\login.php on line 5
+2024-08-26 06:50:38 - Error: [2] require_once(validation.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\evndata\login.php on line 5
+2024-08-26 06:54:41 - Error: [2] Undefined array key "first_name" in C:\xampp\htdocs\evndata\login.php on line 8
+2024-08-26 06:54:41 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 06:54:41 - Error: [2] Undefined array key "last_name" in C:\xampp\htdocs\evndata\login.php on line 9
+2024-08-26 06:54:41 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 06:54:41 - Error: [2] Undefined array key "phone_number" in C:\xampp\htdocs\evndata\login.php on line 11
+2024-08-26 06:54:41 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 06:54:41 - Error: [2] Undefined array key "business_name" in C:\xampp\htdocs\evndata\login.php on line 12
+2024-08-26 06:54:41 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 15:07:12 - Error: [2] require_once(validation.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\evndata\register.php on line 5
+2024-08-26 15:07:37 - Error: [2] Undefined array key "first_name" in C:\xampp\htdocs\evndata\login.php on line 8
+2024-08-26 15:07:37 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 15:07:37 - Error: [2] Undefined array key "last_name" in C:\xampp\htdocs\evndata\login.php on line 9
+2024-08-26 15:07:37 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 15:07:37 - Error: [2] Undefined array key "phone_number" in C:\xampp\htdocs\evndata\login.php on line 11
+2024-08-26 15:07:37 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 15:07:37 - Error: [2] Undefined array key "business_name" in C:\xampp\htdocs\evndata\login.php on line 12
+2024-08-26 15:07:37 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 15:16:00 - Error: [2] require_once(validation.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\evndata\register.php on line 5
+2024-08-26 15:17:22 - Error: [8192] Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\evndata\register.php on line 43
+2024-08-26 15:17:22 - Error: [8192] Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\evndata\register.php on line 44
+2024-08-26 15:17:22 - Error: [8192] Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\evndata\register.php on line 46
+2024-08-26 15:17:22 - Error: [8192] Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\evndata\register.php on line 47
+2024-08-26 15:29:10 - Error: [2] Undefined array key "first_name" in C:\xampp\htdocs\evndata\login.php on line 8
+2024-08-26 15:29:10 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 15:29:10 - Error: [2] Undefined array key "last_name" in C:\xampp\htdocs\evndata\login.php on line 9
+2024-08-26 15:29:10 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 15:29:10 - Error: [2] Undefined array key "phone_number" in C:\xampp\htdocs\evndata\login.php on line 11
+2024-08-26 15:29:10 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 15:29:10 - Error: [2] Undefined array key "business_name" in C:\xampp\htdocs\evndata\login.php on line 12
+2024-08-26 15:29:10 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 15:46:28 - Error: [2] Undefined array key "first_name" in C:\xampp\htdocs\evndata\login.php on line 8
+2024-08-26 15:46:28 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 15:46:28 - Error: [2] Undefined array key "last_name" in C:\xampp\htdocs\evndata\login.php on line 9
+2024-08-26 15:46:28 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 15:46:28 - Error: [2] Undefined array key "phone_number" in C:\xampp\htdocs\evndata\login.php on line 11
+2024-08-26 15:46:28 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 15:46:28 - Error: [2] Undefined array key "business_name" in C:\xampp\htdocs\evndata\login.php on line 12
+2024-08-26 15:46:28 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 17:20:31 - Error: [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\evndata\header.php on line 3
+2024-08-26 17:20:31 - Error: [2] require_once(functions.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\evndata\header.php on line 5
+2024-08-26 17:20:32 - Error: [8] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\evndata\header.php on line 3
+2024-08-26 17:20:32 - Error: [2] require_once(functions.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\evndata\header.php on line 5
+2024-08-26 17:23:22 - Error: [2] require_once(functions.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\evndata\header.php on line 9
+2024-08-26 17:37:25 - Error: [2] Undefined array key "first_name" in C:\xampp\htdocs\evndata\login.php on line 8
+2024-08-26 17:37:25 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 17:37:25 - Error: [2] Undefined array key "last_name" in C:\xampp\htdocs\evndata\login.php on line 9
+2024-08-26 17:37:25 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 17:37:25 - Error: [2] Undefined array key "phone_number" in C:\xampp\htdocs\evndata\login.php on line 11
+2024-08-26 17:37:25 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 17:37:25 - Error: [2] Undefined array key "business_name" in C:\xampp\htdocs\evndata\login.php on line 12
+2024-08-26 17:37:25 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 17:39:02 - Error: [2] Undefined array key "user_email" in C:\xampp\htdocs\evndata\topup.php on line 17
+2024-08-26 17:52:12 - Error: [2] Constant PAYSTACK_SECRET_KEY already defined in C:\xampp\htdocs\evndata\config.php on line 9
+2024-08-26 17:55:42 - Error: [2] Undefined array key "user_email" in C:\xampp\htdocs\evndata\topup.php on line 17
+2024-08-26 17:58:23 - Error: [8192] Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\evndata\topup.php on line 9
+2024-08-26 18:06:15 - Error: [2] Undefined array key "first_name" in C:\xampp\htdocs\evndata\login.php on line 8
+2024-08-26 18:06:15 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 18:06:15 - Error: [2] Undefined array key "last_name" in C:\xampp\htdocs\evndata\login.php on line 9
+2024-08-26 18:06:15 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 18:06:15 - Error: [2] Undefined array key "phone_number" in C:\xampp\htdocs\evndata\login.php on line 11
+2024-08-26 18:06:15 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 18:06:15 - Error: [2] Undefined array key "business_name" in C:\xampp\htdocs\evndata\login.php on line 12
+2024-08-26 18:06:15 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 18:09:58 - Error: [8192] Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\evndata\topup.php on line 9
+2024-08-26 18:18:34 - Error: [2] Undefined array key "first_name" in C:\xampp\htdocs\evndata\login.php on line 8
+2024-08-26 18:18:34 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 18:18:34 - Error: [2] Undefined array key "last_name" in C:\xampp\htdocs\evndata\login.php on line 9
+2024-08-26 18:18:34 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 18:18:34 - Error: [2] Undefined array key "phone_number" in C:\xampp\htdocs\evndata\login.php on line 11
+2024-08-26 18:18:34 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 18:18:34 - Error: [2] Undefined array key "business_name" in C:\xampp\htdocs\evndata\login.php on line 12
+2024-08-26 18:18:34 - Error: [8192] trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\evndata\test\validation.php on line 4
+2024-08-26 18:19:17 - Error: [8192] Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\evndata\topup.php on line 9
+2024-08-26 18:22:19 - Error: [8192] Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\evndata\topup.php on line 9
+2024-08-26 18:23:02 - Error: [2] require_once(validation.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\evndata\profile.php on line 3
+2024-08-26 18:24:35 - Error: [2] require_once(validation.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\evndata\profile.php on line 3

@@ -1,0 +1,15 @@
+2024-08-26 06:15:32 - Exception: Failed opening required 'validation.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\evndata\profile.php on line 3
+2024-08-26 06:15:35 - Exception: Failed opening required 'validation.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\evndata\profile.php on line 3
+2024-08-26 06:15:43 - Exception: Failed opening required 'validation.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\evndata\login.php on line 5
+2024-08-26 06:15:52 - Exception: Failed opening required 'validation.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\evndata\login.php on line 5
+2024-08-26 06:50:38 - Exception: Failed opening required 'validation.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\evndata\login.php on line 5
+2024-08-26 15:07:12 - Exception: Failed opening required 'validation.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\evndata\register.php on line 5
+2024-08-26 15:16:00 - Exception: Failed opening required 'validation.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\evndata\register.php on line 5
+2024-08-26 15:17:22 - Exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'appiahdanielawuah15@gmail.com' for key 'email' in C:\xampp\htdocs\evndata\register.php on line 55
+2024-08-26 17:20:31 - Exception: Failed opening required 'functions.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\evndata\header.php on line 5
+2024-08-26 17:20:32 - Exception: Failed opening required 'functions.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\evndata\header.php on line 5
+2024-08-26 17:23:22 - Exception: Failed opening required 'functions.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\evndata\header.php on line 9
+2024-08-26 17:31:20 - Exception: Call to undefined function is_logged_in() in C:\xampp\htdocs\evndata\config.php on line 27
+2024-08-26 17:31:22 - Exception: Call to undefined function is_logged_in() in C:\xampp\htdocs\evndata\config.php on line 27
+2024-08-26 18:23:02 - Exception: Failed opening required 'validation.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\evndata\profile.php on line 3
+2024-08-26 18:24:35 - Exception: Failed opening required 'validation.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\evndata\profile.php on line 3
